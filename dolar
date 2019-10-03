@@ -1,0 +1,17 @@
+'''
+Programa para compra de Dólar 
+By: Ricardo Rodrigues Soares
+Phone: +55 11 95593 9797
+E-mail: rcddigital.it@gmail.com / ri.rodriguesoares@gmail.com
+'''
+
+print("Compra de Dólar")
+print("Neste exemplo o Dolár esta sendo considerado em 4,13")
+
+
+
+
+
+
+real = float(input('Quantos  reais você tem?: '))
+print(f"Com {real} reais, você pode comprar {(real/4.13):.3} Dólares")
